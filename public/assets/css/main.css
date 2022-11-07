@@ -1,0 +1,21 @@
+table input {
+    max-width: 142px;
+    padding: 2px 6px !important;
+    margin: 0 !important;
+}
+
+input[type=date] {
+    max-width: 132px;
+}
+
+input[type=datetime-local] {
+    max-width: 168px;
+}
+
+.invalid_input {
+    border: 1px solid #f00;
+}
+
+.btn {
+    padding: 4px 8px;
+}

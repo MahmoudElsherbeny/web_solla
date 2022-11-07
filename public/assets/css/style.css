@@ -1,0 +1,13 @@
+.main {
+    padding: 16px;
+}
+
+.sections {
+    width: 100%;
+    overflow: hidden;
+}
+
+.sections .add_new {
+    padding: 0 4px;
+    margin-bottom: 4px;
+}
